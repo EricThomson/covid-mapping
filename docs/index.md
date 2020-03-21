@@ -9,7 +9,7 @@ It is mainly for use by developers, but it seems even back-end developers want t
 ## Covid growth vs time
 Blah blah blah.
 
-<iframe src="cases_v_time.html"  width="800" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="cases_v_time.html"  width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## Heat-map of the US
