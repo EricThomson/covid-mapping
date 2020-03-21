@@ -15,8 +15,8 @@ Blah blah blah.
 ## Heat-map of the US
 Also known as a choropleth to the nerds.
 
-<iframe src="choropleth.html"  width="900" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="choropleth.html"  width="900" height="700" frameborder="0" scrolling="no"></iframe>
 
 ## Hubba bubba
 Bubble maps can be fun
-<iframe src="bubble.html"  width="900" height="800"  frameborder="0" scrolling="no"></iframe>
+<iframe src="bubble.html"  width="900" height="600"  frameborder="0" scrolling="no"></iframe>
