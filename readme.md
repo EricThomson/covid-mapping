@@ -8,14 +8,17 @@ There are already great visualization tools online: this is mainly to hook into 
 The Johns Hopkins University Center for Systems Science and Engineering  generously makes their data available, and they have made the best visualization tool out there, at:
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-## To do
-- Convert scatter plots to plotly.
-- Add dropdown so user can shift b/w linear/semilog plot:
-https://stackoverflow.com/questions/54872300/how-to-enable-and-disable-the-logarithmic-scale-as-a-viewer-in-plotly
-- Get simple example working of creating html/embed file created and shown on a minimal web site.
-- Get ability host/show somewhere.
+## To do before serving
+- Get all examples to web site
 - Use papermill to update.
 - Write good documentation on Jupyter (with suggestions for tacks to take) so developers can go to town.
+
+# Suggestions for analysis
+- Plot curves for all states instead of entire country.
+- Normalize to population density instead of showing raw number (e.g., comparing california to rhode island is ridiculous).
+- Fit exponential to data. Early part of curves see how much it depends on state's population density.
+- Extract deaths/recovered data in addition.
+- Come up with way to determine if a curve has hit the bend (i.e., has an exponential started to drop to linear yet).
 
 ## On plotly
 Plotly is great, but front end web stuff is traumatic.  Some resources I found helpful for getting this served:
