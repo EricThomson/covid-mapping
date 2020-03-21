@@ -29,5 +29,8 @@ Basically, create a plotly html file for a single plot, or an embed file and the
 Eventually I want this to automatically update, and can use papermill:
 https://towardsdatascience.com/introduction-to-papermill-2c61f66bea30
 
+## Useful plotly docs
+- https://plot.ly/python/time-series/#time-series-plot-with-datetime-objects
+
 ## Acknowledgments
 Thanks to Julia (https://github.com/juliakm) for lots of suggestions, like for using iframes and papermill.
