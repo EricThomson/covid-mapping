@@ -6,4 +6,8 @@ title: Covid-19 Maps
 
 This is a paragraph descriping what's awesome!!!
 
-<iframe style="position: absolute; height: 80%; border: none" src="choropleth.html" frameborder="0" allowfullscreen></iframe>
+<div style="padding-top:56.25%">
+<iframe src="choropleth.html" frameborder="0" allowfullscreen
+    style="width:100%;height:100%;"></iframe>
+</div>
+
