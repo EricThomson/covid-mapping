@@ -1,0 +1,5 @@
+*.docx
+*~*
+/__pycache__
+*dropbox*
+desktop.ini
