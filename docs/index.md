@@ -6,7 +6,7 @@ title: Covid-19 Maps
 
 Is this distrurbing?
 
-<iframe src="cases_v_time.html"  width="600" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="cases_v_time.html"  width="1000"  frameborder="0" allowfullscreen></iframe>
 
 
 ## What about this?
