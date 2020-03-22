@@ -2,9 +2,9 @@
 title: COVID-19 Maps
 ---
 # Mapping Coronavirus
-This is a testing site for visualizing Coronavirus data. Three plots (for now) are below, and at the end I describe the workflow for developers who want to work with this dataset but are not sure where to start.
+Visualizing the Coronavirus data extracted from the corona-mapping repo. Three interactive plots are show below, and at the end I describe the workflow for developers who want to work with this dataset but are not sure where to start.
 
-The Johns Hopkins University Center for Systems Science and Engineering  generously make their data available, and they have great visualization  tool at their web site, the [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
+The Johns Hopkins University Center for Systems Science and Engineering  generously make their data available, and they have a great visualization tool at their web site, the [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
 
 ### Cases in the US versus Date
 The dropdown menu in the graph lets you switch between logarithmic and linear scale for the y-axis.
