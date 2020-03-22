@@ -15,10 +15,5 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 - Extract deaths/recovered data in addition to number of diagnoses.
 - Come up with way to determine if a curve has hit the bend (i.e., has an exponential started to drop to linear yet?).
 
-
-## On papermill
-Eventually I want this to automatically update, and can use papermill:
-https://towardsdatascience.com/introduction-to-papermill-2c61f66bea30
-
 ## Acknowledgments
 Thanks to repo contributer Julia (https://github.com/juliakm) for building the jekyll site and helping to troubleshoot everything.
