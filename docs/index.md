@@ -2,9 +2,9 @@
 title: COVID-19 Maps
 ---
 # Mapping Coronavirus
-The three interactive plots shown below were all generated using the associated github repo. At the end I describe the workflow for developers who want to work with this dataset but are not sure where to start.
+The three interactive plots shown below were all generated using the associated github repo [https://github.com/EricThomson/covid-mapping](https://github.com/EricThomson/covid-mapping). At the end I describe the workflow for developers who want to work with this dataset but are not sure where to start.
 
-The Johns Hopkins University Center for Systems Science and Engineering  generously make their data available, and update it nightly. They have a great visualization tool at their web site, the [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
+The data, updated nightly, are from the generous folks at [https://covidtracking.com/]( https://covidtracking.com/).
 
 ### Cases in the US versus Date
 The dropdown menu in the graph lets you switch between logarithmic and linear scale for the y-axis.
